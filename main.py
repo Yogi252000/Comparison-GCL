@@ -6,7 +6,7 @@ from plotly.subplots import make_subplots
 from streamlit_option_menu import option_menu
 
 
-st.set_page_config(page_title='GCL Tapi',layout="wide",page_icon='🚢')
+st.set_page_config(page_title='GCL Vessel Voyage',layout="wide",page_icon='🚢')
 st.header("FLUYT VESSEL")
 hide_st_style = """
          <style>
